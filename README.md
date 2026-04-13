@@ -20,19 +20,7 @@ Energy cannot be easily stored in large capacities. In smart cities, manufacturi
 2. **Feature Engineering:** Cyclic conversions for Time/Months, weekend markers.
 3. **ML Pipeline:** Train/Test split, Model Training, Metric Evaluation (RMSE, R2).
 
-## 🚀 Installation
 
-```bash
-# Clone the repository
-git clone https://github.com/YourUsername/AI-Energy-Consumption-Forecasting.git
-cd AI-Energy-Consumption-Forecasting
-
-# Install Requirements
-pip install -r requirements.txt
-
-# Run the complete pipeline
-python main.py
-```
 
 ## 📊 Results & Visualization
 ### Actual vs Predicted
